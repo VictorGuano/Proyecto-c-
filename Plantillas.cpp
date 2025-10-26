@@ -1,7 +1,7 @@
 # include <iostream>
 # include <string>
 //--------typeDef y Plantillas-----------
-
+//vercion 2
 using namespace std;
 //Alias con typedef
 
